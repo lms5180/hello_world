@@ -1,2 +1,2 @@
 # hello_world
-This is my first repository.
+This is my new repository by @lms5180.
